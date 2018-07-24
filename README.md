@@ -8,10 +8,3 @@ I was messing around a few weekends ago and I have made the changes in my reposi
 But I have not tested the changes yet so I do not think that they work and they are not complete.
 When you make changes to your code you can test it with SITL (Software in the loop). Example Link but there are other ways (http://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html). Right now we dont have a working pixhawk because the one we have broke down. But we will be ordering two more so we will be able to have a test bed for you to test your code on real hardware soon.
 Let me know if you have any questions.
-
-Branch comments (((((((((((((((((((((((((
-
-More edits9999999999999999999999999
-======
-
-Anohter update by Ali
